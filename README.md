@@ -5,3 +5,5 @@ Features:
 - MTD-bi search with iterative deepening and transposition table
 - Deterministic node-capped budget for replay verification
 - Evaluation with piece-square tables, king safety, and bishop pairs
+- Certified for make.fun tiny-chess-01 bounty
+
